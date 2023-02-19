@@ -15,6 +15,4 @@ This repository contains the required data and starter code reference for studen
 - **Ground Truth - Voxel Tensor Index_ Sample1.xlsx**: An excel file that assists in associating the Ground_Truth images and Spectrogram_Tensors spectrograms. This remains consistent for both the samples except for columns C-F which correspond to sample 1 only
 - **CNN_Implementation_Code.ipynb**: A starter jupyter notebook to read the data and a CNN implementation. The students are expected to modify the code to meet their project objective
 
-## Note
-- This is a research restricted data and we ask you to restrain from sharing this data outside of your project group
-- If you require access to the raw data, please get in touch with the TA and we will upload it to the repository
+
