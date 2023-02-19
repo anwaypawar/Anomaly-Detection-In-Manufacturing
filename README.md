@@ -5,7 +5,7 @@ This repository contains the required data and starter code reference for studen
 - **Sample1**: Laser power 250 W, Scan speed 10 Inches/min,	Powder flow rate 4 RPM (revolutions per minute)
 - **Sample4**: Laser power 420 W, Scan speed 20 Inches/min,	Powder flow rate 4 RPM
 
-## Description of Files and Folders
+## Data Used 
 - **Ground_Truth_Sample1**: A folder that contains all the ground truth images for sample 1. The images have already been converted to B&W (Black & White)
 - **Ground_Truth_Sample4**: A folder that contains all the ground truth images for sample 4. The images have NOT been converted to B&W and are raw images
 - **Spectrogram_Tensors_Sample1.mat**: A MAT file that contains all the spectrograms associated with sample 1. Every spectrogram is named in the following format: Tensor_voxel_{index} and 129 x 15 x 6 which corresponds to 129 x 15 spectrograms for M1 P1 P2 M2 P3 P4 (M - Milling; P - Printing)
